@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"name": "Ade Firman",
+		"club_id": 99
+	},
+	{
+		"id": 2,
+		"name": "Imam Nududun",
+		"club_id": 88
+	},
+	{
+		"id": 3,
+		"name": "Muklis",
+		"club_id": 88
+	},
+	{
+		"id": 4,
+		"name": "Oky Saputra",
+		"club_id": 88
+	},
+	{
+		"id": 5,
+		"name": "Ikhsan",
+		"club_id": 99
+	},
+	{
+		"id": 6,
+		"name": "Fahri",
+		"club_id": 99
+	}
+]
